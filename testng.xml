@@ -3,9 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      
-      <class name="Scripts.TestLogin"/>
       <class name="Scripts.TestCustomer"/>
+      <class name="Scripts.TestGitHub"/>
+      <class name="Scripts.TestLogin"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
